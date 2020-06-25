@@ -1,9 +1,9 @@
-## Logistic_Regression:
+## 1.Logistic_Regression:
 We have implemented Logistic Regression classifier from the scratch in python. This is a multiclassification model where we have used OneVsAll to classify more than 2 target variables.
 Detail documentation can be viewed by my article on Medium.com
 https://medium.com/@aryamohapatra/logistic-regression-from-scratch-multi-classification-with-onevsall-d5c2acf0c37c
 
-## Deep Neural Network for Image classification (CIFAR Dataset):
+## 2.Deep Neural Network for Image classification (CIFAR Dataset):
 
 Image recognition is one task now tackled with ML,that was considered “very hard” not long ago. Here we have built a Deep Neural network to classify the 
 images of Dogs and Horses from CIFAR Dataset.
